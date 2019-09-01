@@ -11,6 +11,6 @@ Simple Java Football example using JanusGraph 0.4.0 and Apache TinkerPop 3.4.1.
 
 ```
 mvn clean package
-mvn exec:java -Dexec.mainClass="pluradj.janusgraph.example.JavaExample"
+mvn exec:java -Dexec.mainClass="football.janusgraph.example.FootballExample"
 ```
 
